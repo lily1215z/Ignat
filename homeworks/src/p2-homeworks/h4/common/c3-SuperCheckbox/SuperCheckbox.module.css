@@ -1,0 +1,15 @@
+.checkbox {
+    /*background-color: #dc3939;*/
+    /*color: #9a3030;*/
+    /*border: 1px solid red;*/
+}
+
+.spanClassName {
+    margin-left: 15px;
+}
+
+.label {
+    margin-top: 15px;
+    max-width: 200px;
+    width: 100%;
+}
