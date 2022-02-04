@@ -7,6 +7,9 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background-image: url(../src/img/bg22.jpg);
+    background-position: center center;
+    -webkit-background-size: cover;
+    background-size: cover;
     margin: 50px 20px;
 }
 
