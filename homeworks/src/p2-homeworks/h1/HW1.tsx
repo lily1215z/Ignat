@@ -10,6 +10,7 @@ const messageData = {
 }
 
 function HW1() {
+    console.log('hhh')
     return (
         <div>
             <h1 className={style.title}>homeworks 1</h1>
